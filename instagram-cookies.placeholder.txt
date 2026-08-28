@@ -1,0 +1,2 @@
+# Placeholder file so Docker Compose has a default read-only mount target.
+# Set HOST_INSTAGRAM_COOKIES_FILE and INSTAGRAM_COOKIES_FILE in .env to use real Instagram cookies.
